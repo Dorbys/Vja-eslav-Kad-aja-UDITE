@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <osoby>
-    <osoba osCislo='R1245'>
+    <osoba osCislo='R9999'>
         <jmeno>Jan</jmeno>
         <prijmeni>Novák</prijmeni>
         <stav>studuje</stav>
@@ -10,7 +10,7 @@
         <pohlavi>muž</pohlavi>
         <kredity>12</kredity>
     </osoba>
-    <osoba osCislo='R1246'>
+    <osoba osCislo='R0666'>
         <jmeno>Hana</jmeno>
         <prijmeni>Holíková</prijmeni>
         <stav>nestuduje</stav>
